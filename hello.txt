@@ -1,10 +1,10 @@
 
 hello, studying in chitkara university
 
-<<<<<<< HEAD
+
 going to pull the changesfrom git global repo
-=======
+
 rajpura, punjab
 
 going to pull the changes
->>>>>>> 119d19f (commit2)
+
